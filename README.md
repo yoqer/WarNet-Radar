@@ -1,2 +1,4 @@
 # WarNet-Radar
-Radar minimalista en la Post- Cuántica de principios de Siglo.
+Radar minimalista en era Post-Cuántica de principios del Siglo.
+
+
