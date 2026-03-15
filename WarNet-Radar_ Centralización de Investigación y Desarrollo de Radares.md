@@ -61,7 +61,7 @@ Para más detalles, consulta [Principios Aeronautica](./Principios%20de%20Aeron�
 
 ## 🔗 Referencias a Proyectos Relacionados
 - [**WarNet-Air**](https://github.com/yoqer/WarNet-Air): Plataforma aérea estratosférica autónoma
-- [**WarNet Fusion**](https://github.com/yoqer/WarNet-Air): Fusión de sensores para navegación autónoma
+- [**WarNet Fusion**]([https://github.com/yoqer/WarNet-Air](https://github.com/yoqer/WarNet-Air/blob/main/warnet_air_fusion_flight_algorithm.md)): Fusión de sensores para navegación autónoma
 - [**WarNet-Robot**](https://github.com/yoqer/WarNet-Robot): Robótica terrestre distribuida
 
 ## 📋 Licencia y Propiedad Intelectual
