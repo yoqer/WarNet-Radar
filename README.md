@@ -9,4 +9,9 @@ Radar minimalista en era Post-Cuántica de principios del Siglo.
 
 
 
-Panel General WarNet-Air: [SoftWAir Radar](https://github.com/yoqer/WarNet-Air/blob/main/warnet_air_control_center.html)
+[Panel General WarNet-Air:]
+(https://github.com/yoqer/WarNet-Air/blob/main/warnet_air_control_center.html)
+
+
+
+[SoftWAir Radar](https://github.com/yoqer/WarNet-SoftWAir)
