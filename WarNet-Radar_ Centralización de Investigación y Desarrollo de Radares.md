@@ -50,14 +50,14 @@ Para la investigación técnica detallada, consulta [Investigacion_Radar_Minimal
 ## ✈️ Principios de Aeronáutica
 La integración del radar en plataformas aéreas requiere consideraciones especiales de aeronáutica, peso y balance, y aerodinámica. El sistema está optimizado para el **Aerodirigible WarNet-Air**, permitiendo detecciones de apertura sintética (SAR) mediante maniobras coordinadas.
 
-Para más detalles, consulta [Principios_Aeronautica_Radar.md](./Principios_Aeronautica_Radar.md).
+Para más detalles, consulta [Principios Aeronautica](./Principios%20de%20Aeronáutica%20para%20WarNet-Radar.md).
 
 ## 📚 Documentación Completa
 - [**SUBREPOSITORIOS.md**](./SUBREPOSITORIOS.md): Estructura y referencias cruzadas de todos los subrepositorios
 - [**GATEWAY_CENTRAL.md**](./GATEWAY_CENTRAL.md): Arquitectura y funciones del Gateway Central
 - [**Comunicacion_Bidireccional.md**](./Comunicacion_Bidireccional.md): Protocolos de comunicación Tierra-Espacio
 - [**Investigacion_Radar_Minimalista.md**](./Investigacion_Radar_Minimalista.md): Estudio técnico del radar
-- [**Principios_Aeronautica_Radar.md**](./Principios_Aeronautica_Radar.md): Integración aeronáutica
+- [**Principios_Aeronautica_Radar.md**](./Principios%20de%20Aeronáutica%20para%20WarNet-Radar.md): Integración aeronáutica
 
 ## 🔗 Referencias a Proyectos Relacionados
 - [**WarNet-Air**](https://github.com/yoqer/WarNet-Air): Plataforma aérea estratosférica autónoma
