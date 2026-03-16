@@ -13,7 +13,7 @@ Radar minimalista en era Post-Cuántica de principios del Siglo.
 
 
 
-[Panel General WarNet-Air](https://github.com/yoqer/WarNet-Air/blob/main/warnet_air_control_center.html)
+[Panel General WarNet-Air](https://github.com/yoqer/WarNet-Air/tree/main/WarNet_Command_V4)
 
 
 
