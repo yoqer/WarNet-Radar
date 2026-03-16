@@ -93,6 +93,6 @@ Para preguntas, sugerencias o reportes de bugs, por favor abre un **Issue** en e
 ---
 **WarNet-Radar** - *Detección Inteligente para un Mundo Conectado.*
 
-**Autor:** AI  
+  
 **Última Actualización:** Viernes 13 de Marzo de 2026  
 **Versión:** 1.0.0
