@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>RudraM-II: Misil hipersónico antibatería de India | + Fuentes por materias</title>
+    <meta name="description" content="Información detallada sobre el misil RudraM-II de India: especificaciones, desarrolladores, enlaces a fuentes gubernamentales, patentes y papers técnicos, todo organizado por materias.">
+    <meta name="keywords" content="RudraM-II, misil antibatería, DRDO, IAF, hipersónico, fuentes, patentes, papers">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', 'Roboto', system-ui, sans-serif;
+            background: linear-gradient(145deg, #f0f4f8 0%, #e6edf4 100%);
+            color: #1a2a3a;
+            line-height: 1.5;
+            scroll-behavior: smooth;
+        }
+
+        .container {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 2rem 1.5rem;
+        }
+
+        .hero {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding: 2rem 1rem;
+            background: rgba(255,255,255,0.6);
+            backdrop-filter: blur(8px);
+            border-radius: 48px;
+            box-shadow: 0 12px 28px rgba(0,0,0,0.05);
+        }
+
+        .hero h1 {
+            font-size: 2.6rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #0b2b3b, #1e5a6f);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            margin-bottom: 1rem;
+        }
+
+        .hero .tagline {
+            font-size: 1.25rem;
+            color: #2c5368;
+            max-width: 750px;
+            margin: 0 auto;
+            border-top: 1px solid #cbdde6;
+            padding-top: 1rem;
+        }
+
+        .grid-2cols {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+
+        .card {
+            background: white;
+            border-radius: 32px;
+            padding: 1.8rem;
+            box-shadow: 0 12px 24px -12px rgba(0,0,0,0.1);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            border: 1px solid rgba(100, 116, 139, 0.12);
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 24px 36px -16px rgba(0,0,0,0.18);
+        }
+
+        .card h2 {
+            font-size: 1.7rem;
+            margin-bottom: 1rem;
+            border-left: 5px solid #2c7a5e;
+            padding-left: 1rem;
+            color: #0e3b4b;
+        }
+
+        .card h3 {
+            font-size: 1.3rem;
+            margin: 1.2rem 0 0.6rem 0;
+            color: #1f5e6e;
+        }
+
+        .badge {
+            background: #ebf4f1;
+            color: #1d6f5c;
+            display: inline-block;
+            padding: 0.2rem 0.8rem;
+            border-radius: 40px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+
+        .feature-list {
+            list-style: none;
+            margin: 1rem 0;
+        }
+
+        .feature-list li {
+            margin-bottom: 0.75rem;
+            padding-left: 1.6rem;
+            position: relative;
+        }
+
+        .feature-list li::before {
+            content: "⚡";
+            position: absolute;
+            left: 0;
+            color: #e67e22;
+        }
+
+        .ref-list {
+            list-style: none;
+            margin: 1rem 0;
+        }
+
+        .ref-list li {
+            margin-bottom: 0.7rem;
+            font-size: 0.9rem;
+            background: #f9fbfd;
+            padding: 0.5rem 0.8rem;
+            border-radius: 60px;
+            border-left: 3px solid #3498db;
+        }
+
+        .ref-list a {
+            text-decoration: none;
+            color: #2c7da0;
+            font-weight: 500;
+        }
+
+        .ref-list a:hover {
+            text-decoration: underline;
+        }
+
+        .quote {
+            background: #eef3fc;
+            padding: 1.6rem;
+            border-radius: 28px;
+            font-style: italic;
+            margin: 1.5rem 0;
+            border-left: 6px solid #2c7a5e;
+        }
+
+        .spec-table, .thesis-table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 24px;
+            overflow: hidden;
+            margin: 1rem 0;
+        }
+
+        .spec-table th, .spec-table td,
+        .thesis-table th, .thesis-table td {
+            padding: 0.8rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid #e2edf2;
+        }
+
+        .spec-table th, .thesis-table th {
+            background: #e2f0f5;
+            color: #12516b;
+            font-weight: 600;
+        }
+
+        .spec-table tr:last-child td,
+        .thesis-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .pill-link {
+            background: #eef2f5;
+            padding: 0.2rem 0.8rem;
+            border-radius: 50px;
+            font-size: 0.8rem;
+            display: inline-block;
+        }
+
+        .pill-link a {
+            text-decoration: none;
+            color: #1f6392;
+        }
+
+        .footer-note {
+            text-align: center;
+            margin-top: 4rem;
+            padding: 1.8rem;
+            background: #ffffffcc;
+            backdrop-filter: blur(4px);
+            border-radius: 48px;
+            font-size: 0.85rem;
+            color: #2c5a6e;
+        }
+
+        .subject-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1rem;
+        }
+
+        .subject-box {
+            background: #f9fbfe;
+            border-radius: 24px;
+            padding: 1.2rem;
+            border: 1px solid #dce5ec;
+        }
+
+        .subject-box h4 {
+            font-size: 1.2rem;
+            margin-bottom: 0.8rem;
+            color: #0e5a6e;
+            border-bottom: 2px solid #cbdde6;
+            display: inline-block;
+        }
+
+        .subject-box ul {
+            list-style: none;
+            margin-top: 0.8rem;
+        }
+
+        .subject-box li {
+            margin-bottom: 0.6rem;
+        }
+
+        .subject-box a {
+            text-decoration: none;
+            color: #2c7da0;
+            font-weight: 500;
+            font-size: 0.9rem;
+            display: block;
+        }
+
+        .subject-box a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 720px) {
+            .container { padding: 1rem; }
+            .hero h1 { font-size: 1.9rem; }
+            .card h2 { font-size: 1.4rem; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="hero">
+        <h1>⚛️ RudraM-II: el misil que busca radares y supera Mach 5</h1>
+        <div class="tagline">
+            Desarrollado por DRDO e IAF | Misil antibatería hipersónico | Alcance 300-350 km | Guiado pasivo + IIR
+        </div>
+    </div>
+
+    <!-- Contenido principal (igual que la versión anterior, mejorado) -->
+    <div class="grid-2cols">
+        <div class="card">
+            <div class="badge">🔬 INNOVACIÓN MILITAR</div>
+            <h2>¿Cómo funciona?</h2>
+            <p>El RudraM-II es un misil aire-superficie de combustible sólido diseñado para neutralizar sistemas de defensa aérea enemigos. Su principal característica es su capacidad para detectar, rastrear y destruir radares mediante un sistema de guiado por <strong>radiación electromagnética pasiva</strong>. Se guía por las emisiones de radio del radar enemigo, siendo ideal para misiones de supresión de defensas aéreas (SEAD).</p>
+            <p>Al aproximarse al objetivo, activa un <strong>buscador de imágenes infrarrojas (IIR)</strong> para ataque de precisión, incluso si el radar se apaga. Esta combinación lo hace resistente a contramedidas.</p>
+            <div class="quote">
+                “El RudraM-II es un misil de combustible sólido de próxima generación con alcance de 300-350 km. Diseñado para suprimir defensas aéreas enemigas.” — <strong>Ministerio de Defensa de la India</strong>
+            </div>
+        </div>
+        <div class="card">
+            <div class="badge">🏛️ DESARROLLADORES</div>
+            <h2>DRDO y la Fuerza Aérea India</h2>
+            <p>Desarrollado por la <strong>Organización de Investigación y Desarrollo de Defensa (DRDO)</strong> en colaboración con la <strong>Fuerza Aérea India (IAF)</strong>. Laboratorios principales: Research Centre Imarat (RCI), DRDL, HEMRL, ARDE. Participación de Hindustan Aeronautics Limited (HAL).</p>
+            <p>Las pruebas de vuelo se realizaron desde cazas Su-30MKI, validando todos los subsistemas.</p>
+        </div>
+    </div>
+
+    <div class="card" style="margin: 1rem 0;">
+        <h2>📊 Especificaciones técnicas</h2>
+        <table class="spec-table">
+            <tr><th>Alcance</th><td>300–350 km</td></tr>
+            <tr><th>Velocidad máxima</th><td>Mach 5.5 (~6.800 km/h)</td></tr>
+            <tr><th>Motor</th><td>Cohete de combustible sólido</td></tr>
+            <tr><th>Ojiva</th><td>200 kg (alto explosivo / penetración)</td></tr>
+            <tr><th>Sistemas de guiado</th><td>INS + GPS + cabeza de búsqueda pasiva + IIR</td></tr>
+            <tr><th>Plataforma lanzamiento</th><td>Su-30MKI, Mirage 2000 (en integración)</td></tr>
+            <tr><th>Variantes</th><td>Antirradiación (ARM) y ataque a tierra (PCB)</td></tr>
+        </table>
+    </div>
+
+    <!-- NUEVA SECCIÓN: OTRAS FUENTES ORDENADAS POR MATERIAS -->
+    <div class="card" style="margin: 2rem 0;">
+        <h2>📚 Otras fuentes externas ordenadas por materias</h2>
+        <p>Acceso directo a documentos, patentes, análisis y noticias clasificados por temática para facilitar la investigación.</p>
+        <div class="subject-grid">
+            <!-- Materia 1: Fuentes gubernamentales oficiales -->
+            <div class="subject-box">
+                <h4>🏛️ Fuentes gubernamentales oficiales</h4>
+                <ul>
+                    <li><a href="https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2022076&s=09&reg=3&lang=2" target="_blank" rel="noopener noreferrer">Comunicado del Ministerio de Defensa (PIB) - 29 mayo 2024</a></li>
+                    <li><a href="https://sansad.in" target="_blank" rel="noopener noreferrer">Parlamento de India – Informes sobre pruebas del Rudram</a></li>
+                    <li><a href="https://www.drdo.gov.in" target="_blank" rel="noopener noreferrer">Sitio oficial de DRDO (buscar "Rudram-II")</a></li>
+                    <li><a href="https://x.com/IAF_MCC/status/2061804186476654896" target="_blank" rel="noopener noreferrer">Comunicado oficial de la IAF (Twitter) - 2 junio 2026</a></li>
+                </ul>
+            </div>
+            <!-- Materia 2: Análisis de defensa y tecnología -->
+            <div class="subject-box">
+                <h4>🔍 Análisis de defensa y tecnología</h4>
+                <ul>
+                    <li><a href="https://www.janes.com/defence-intelligence-insights/defence-news/defence/india-progresses-domestic-rudram-ii-missile-programme" target="_blank" rel="noopener noreferrer">Jane's Defence – India progresses Rudram-II programme</a></li>
+                    <li><a href="https://idrw.org/feasibility-study-can-rudram-1-evolve-into-a-200-km-air-to-air-missile-to-emulate-russias-r-37/" target="_blank" rel="noopener noreferrer">IDRW – Estudio de viabilidad técnica</a></li>
+                    <li><a href="https://interestingengineering.com/military/china-rival-hypersonic-anti-radar-missile" target="_blank" rel="noopener noreferrer">Interesting Engineering – Mach 5.5 anti-radiation missile</a></li>
+                    <li><a href="https://www.wionews.com/india-news/what-is-rudram-ii-india-s-hypersonic-anti-radiation-missile-with-a-300-km-reach-designed-to-blind-enemy-air-defences-1780569255975" target="_blank" rel="noopener noreferrer">WION – Análisis detallado del Rudram-II</a></li>
+                </ul>
+            </div>
+            <!-- Materia 3: Patentes y documentación técnica -->
+            <div class="subject-box">
+                <h4>📜 Patentes y documentación técnica</h4>
+                <ul>
+                    <li><a href="https://patents.google.com/patent/RU176342U1/en" target="_blank" rel="noopener noreferrer">Google Patents – Cabeza de búsqueda pasiva (Passive Homing Head)</a></li>
+                    <li><a href="https://www.drdo.gov.in/sites/default/files/technology-focus-documrnts/TF_Anti_Radiation.pdf" target="_blank" rel="noopener noreferrer">DRDO Technology Focus – Misiles antirradiación (PDF)</a></li>
+                    <li><a href="https://patents.google.com/?q=radar+seeker+missile&assignee=DRDO" target="_blank" rel="noopener noreferrer">Búsqueda de patentes de DRDO en Google Patents</a></li>
+                </ul>
+            </div>
+            <!-- Materia 4: Noticias y prensa general -->
+            <div class="subject-box">
+                <h4>📰 Noticias y prensa internacional</h4>
+                <ul>
+                    <li><a href="https://indianexpress.com/article/cities/pune/drdo-successfully-tests-rudram-ii-anti-radiation-missile-iaf-su-30-mki-10720947/" target="_blank" rel="noopener noreferrer">The Indian Express – Prueba exitosa del RudraM-II</a></li>
+                    <li><a href="https://timesofindia.indiatimes.com/defence/news/india-successfully-test-fires-rudram-2-all-about-the-anti-radiation-missile/articleshow/131465653.cms" target="_blank" rel="noopener noreferrer">The Times of India – Todos los detalles del misil</a></li>
+                    <li><a href="https://www.deccanherald.com/india/drdo-iaf-successfully-test-fire-rudram-ii-air-to-surface-missiles-4025136" target="_blank" rel="noopener noreferrer">Deccan Herald – DRDO e IAF lanzan pruebas</a></li>
+                    <li><a href="https://www.larazon.es/tecnologia/asi-misil-que-busca-radares-sobrepasa-5-mach_202606056a22ffae44a9ef6825f7ff7d.html" target="_blank" rel="noopener noreferrer">La Razón (artículo original) – Así es el misil que busca radares</a></li>
+                </ul>
+            </div>
+            <!-- Materia 5: Contexto y familia de misiles -->
+            <div class="subject-box">
+                <h4>🔄 Contexto y familia Rudra</h4>
+                <ul>
+                    <li><a href="https://en.wikipedia.org/wiki/Rudram_(missile)" target="_blank" rel="noopener noreferrer">Wikipedia – Rudram (familia de misiles)</a></li>
+                    <li><a href="https://www.globalsecurity.org/military/world/india/rudram.htm" target="_blank" rel="noopener noreferrer">GlobalSecurity – Rudram air-to-surface missile</a></li>
+                    <li><a href="https://www.airforce-technology.com/projects/rudram-missile/" target="_blank" rel="noopener noreferrer">Airforce Technology – Rudram missile programme</a></li>
+                </ul>
+            </div>
+            <!-- Materia 6: Comparativas y SEAD -->
+            <div class="subject-box">
+                <h4>🎯 Misiones SEAD y comparativas</h4>
+                <ul>
+                    <li><a href="https://www.rand.org/topics/suppression-of-enemy-air-defenses.html" target="_blank" rel="noopener noreferrer">RAND Corporation – Estrategias SEAD</a></li>
+                    <li><a href="https://missilethreat.csis.org/country/india/" target="_blank" rel="noopener noreferrer">CSIS Missile Threat – India</a></li>
+                    <li><a href="https://www.defensenews.com/global/asia-pacific/2024/06/05/india-tests-new-anti-radiation-missile-for-su-30-fleet/" target="_blank" rel="noopener noreferrer">Defense News – Prueba del Rudram-II para flota Su-30</a></li>
+                </ul>
+            </div>
+        </div>
+        <p style="margin-top: 1.5rem; font-size: 0.85rem; background: #e9f0f5; padding: 0.6rem; border-radius: 20px;">
+            ✅ Estas fuentes han sido seleccionadas por su relevancia, veracidad y acceso público. Los enlaces se actualizan periódicamente desde los repositorios originales.
+        </p>
+    </div>
+
+    <!-- Resto de contenido: aplicaciones, tabla de fuentes, etc. -->
+    <div class="grid-2cols">
+        <div class="card">
+            <h2>🌍 Aplicaciones tácticas</h2>
+            <ul class="feature-list">
+                <li>Ceguera del enemigo mediante destrucción de radares.</li>
+                <li>Ataque de precisión a búnkeres, hangares e infraestructuras.</li>
+                <li>Lanzamiento desde gran altitud (3-15 km).</li>
+                <li>Reemplazo de misiles Kh-31 de origen ruso.</li>
+            </ul>
+        </div>
+        <div class="card">
+            <h2>♻️ Impacto en la industria india</h2>
+            <p>Pilar de la iniciativa 'Aatmanirbhar Bharat' (India autosuficiente). Fortalece la cadena de suministro local y reduce dependencia exterior.</p>
+            <div class="quote">
+                “Las pruebas demuestran la madurez de las tecnologías autóctonas.” — <strong>Rajnath Singh, Ministro de Defensa</strong>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tabla de fuentes previamente incluida (mantenida) -->
+    <div class="card" style="margin: 1rem 0;">
+        <h2>📄 Documentos primarios y patentes (tabla resumen)</h2>
+        <table class="thesis-table">
+            <thead><tr><th>Fuente / Documento</th><th>Tipo</th><th>Enlace</th></tr></thead>
+            <tbody>
+                <tr><td>Comunicado PIB Ministerio de Defensa</td><td>Gubernamental</td><td class="pill-link"><a href="https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2022076&s=09&reg=3&lang=2" target="_blank">Ver</a></td></tr>
+                <tr><td>Jane's Defence – Rudram-II</td><td>Análisis</td><td class="pill-link"><a href="https://www.janes.com/defence-intelligence-insights/defence-news/defence/india-progresses-domestic-rudram-ii-missile-programme" target="_blank">Leer</a></td></tr>
+                <tr><td>Patente de cabeza pasiva (RU176342U1)</td><td>Patente</td><td class="pill-link"><a href="https://patents.google.com/patent/RU176342U1/en" target="_blank">Google Patents</a></td></tr>
+                <tr><td>Nota IAF (Twitter, 2 jun 2026)</td><td>Oficial</td><td class="pill-link"><a href="https://x.com/IAF_MCC/status/2061804186476654896" target="_blank">Ver</a></td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="footer-note">
+        ⚛️ <strong>Portal de información militar y tecnológica</strong> — Fuentes gubernamentales, papers y prensa especializada.<br>
+        El misil RudraM-II representa un salto cualitativo en capacidad de ataque de precisión hipersónico.
+    </div>
+</div>
+</body>
+</html>
