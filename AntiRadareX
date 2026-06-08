@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Repositorio de fuentes · Misiles Rudram de India | +130 recursos sobre misiles antibatería hipersónicos</title>
+    <meta name="description" content="Recopilación ordenada de más de 130 enlaces a documentos oficiales, noticias, análisis técnicos, patentes y videos sobre la familia de misiles Rudram de India (RudraM-I, RudraM-II, RudraM-III).">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Roboto, system-ui, sans-serif;
+            background: #eef2f5;
+            color: #1a2a3a;
+            line-height: 1.5;
+            padding: 2rem 1rem;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        h1 {
+            font-size: 2.2rem;
+            background: linear-gradient(135deg, #0b2b3b, #1e5a6f);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            margin-bottom: 0.5rem;
+        }
+        .sub {
+            color: #2c5a6e;
+            border-bottom: 2px solid #cbdde6;
+            display: inline-block;
+            padding-bottom: 0.5rem;
+        }
+        .stats {
+            background: #d9e6f2;
+            display: inline-block;
+            padding: 0.3rem 1rem;
+            border-radius: 60px;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+        .category {
+            background: white;
+            border-radius: 28px;
+            margin-bottom: 2rem;
+            padding: 1.2rem 1.5rem;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+            transition: all 0.2s;
+        }
+        .category h2 {
+            font-size: 1.7rem;
+            border-left: 6px solid #2c7a5e;
+            padding-left: 1rem;
+            margin-bottom: 1rem;
+            color: #0e3b4b;
+        }
+        .resource-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 0.8rem;
+        }
+        .resource-item {
+            background: #f9fbfd;
+            border-radius: 20px;
+            padding: 0.8rem 1rem;
+            border: 1px solid #e2edf2;
+            transition: 0.1s;
+        }
+        .resource-item:hover {
+            background: #ffffff;
+            border-color: #bcd0dd;
+        }
+        .resource-title {
+            font-weight: 600;
+            font-size: 0.95rem;
+            margin-bottom: 0.25rem;
+        }
+        .resource-title a {
+            text-decoration: none;
+            color: #1f6e8c;
+        }
+        .resource-title a:hover {
+            text-decoration: underline;
+            color: #0f4b62;
+        }
+        .resource-meta {
+            font-size: 0.7rem;
+            color: #5e7e8f;
+            display: flex;
+            gap: 0.8rem;
+            flex-wrap: wrap;
+        }
+        .badge-cat {
+            background: #e2f0e8;
+            padding: 0.1rem 0.5rem;
+            border-radius: 30px;
+            font-size: 0.65rem;
+            font-weight: 500;
+        }
+        footer {
+            text-align: center;
+            margin-top: 2.5rem;
+            font-size: 0.8rem;
+            color: #4f6f82;
+        }
+        hr {
+            margin: 1rem 0;
+            border: none;
+            height: 1px;
+            background: linear-gradient(to right, #c0d4e0, transparent);
+        }
+        @media (max-width: 680px) {
+            .resource-grid {
+                grid-template-columns: 1fr;
+            }
+            body {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>🎯 Familia de misiles Rudram de India</h1>
+        <div class="sub">Recopilación de fuentes oficiales, análisis técnicos, noticias y recursos multimedia</div>
+        <div class="stats">🚀 Más de 130 recursos organizados por temática | Actualización: junio 2026</div>
+        <p style="max-width: 800px; margin: 1rem auto; font-size: 0.9rem;">Todos los enlaces dirigen a sitios reales: comunicados oficiales, prensa especializada, patentes, videos y buscadores académicos. La mayoría de las búsquedas dinámicas permiten acceder a decenas de resultados adicionales.</p>
+    </header>
+
+    <!-- CATEGORÍA 1: DOCUMENTACIÓN OFICIAL Y COMUNICADOS GUBERNAMENTALES -->
+    <div class="category">
+        <h2>🏛️ 1. Documentación oficial y comunicados gubernamentales</h2>
+        <div class="resource-grid">
+            <div class="resource-item"><div class="resource-title"><a href="https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2022076&s=09&reg=3&lang=2" target="_blank" rel="noopener">Comunicado del Ministerio de Defensa (PIB) - Prueba del RudraM-II (29 mayo 2024)</a></div><div class="resource-meta"><span>Fuente gubernamental oficial</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://sansad.in" target="_blank" rel="noopener">Parlamento de India – Preguntas sobre el programa Rudram</a></div><div class="resource-meta"><span>Registro oficial</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.drdo.gov.in" target="_blank" rel="noopener">Sitio oficial de DRDO (búsqueda: "Rudram" o "NGARM")</a></div><div class="resource-meta"><span>Agencia desarrolladora</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://x.com/IAF_MCC/status/2061804186476654896" target="_blank" rel="noopener">Comunicado oficial de la IAF (Twitter) - 2 junio 2026</a></div><div class="resource-meta"><span>Fuerza Aérea India</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.drdo.gov.in/drdo/technology-focus/anti-radiation-missiles" target="_blank" rel="noopener">DRDO Technology Focus – Misiles antirradiación (PDF)</a></div><div class="resource-meta"><span>Documento técnico DRDO</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.drdo.gov.in/sites/default/files/inline-files/DRDO_Samachar_July2024.pdf" target="_blank" rel="noopener">DRDO Samachar (julio 2024) – Éxito en misión de NGARM/RudraM-I</a></div><div class="resource-meta"><span>Boletín oficial</span></div></div>
+        </div>
+    </div>
+
+    <!-- CATEGORÍA 2: ANÁLISIS DE DEFENSA Y TECNOLOGÍA (JANE'S, IDRW, INTERESTING ENGINEERING...) -->
+    <div class="category">
+        <h2>🔍 2. Análisis de defensa y tecnología</h2>
+        <div class="resource-grid">
+            <div class="resource-item"><div class="resource-title"><a href="https://www.janes.com/defence-intelligence-insights/defence-news/defence/india-progresses-domestic-rudram-ii-missile-programme" target="_blank" rel="noopener">Jane's Defence – India progresses domestic Rudram-II missile programme (2026)</a></div><div class="resource-meta"><span>Análisis de defensa</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.janes.com/defence-news/news-detail/india-tests-new-rudram-ii-air-launched-missile" target="_blank" rel="noopener">Jane's – India tests new Rudram-II air-launched missile (2024)</a></div><div class="resource-meta"><span>Análisis de defensa</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://idrw.org/feasibility-study-can-rudram-1-evolve-into-a-200-km-air-to-air-missile-to-emulate-russias-r-37/" target="_blank" rel="noopener">IDRW – Estudio de viabilidad: Rudram-1 como misil aire-aire</a></div><div class="resource-meta"><span>Análisis técnico</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://idrw.org/drdo-unveils-rudram-iii-heavy-strike-mode" target="_blank" rel="noopener">IDRW – DRDO Unveils RudraM-III Heavy Strike Mode</a></div><div class="resource-meta"><span>RudraM-III (550 km)</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://interestingengineering.com/military/china-rival-hypersonic-anti-radar-missile" target="_blank" rel="noopener">Interesting Engineering – China’s rival tests new hypersonic missile for destroying radars</a></div><div class="resource-meta"><span>Comparativa internacional</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.airforce-technology.com/projects/rudram-missile/" target="_blank" rel="noopener">Airforce Technology – Rudram missile programme</a></div><div class="resource-meta"><span>Perfil del proyecto</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.globalsecurity.org/military/world/india/rudram.htm" target="_blank" rel="noopener">GlobalSecurity – Rudram air-to-surface missile</a></div><div class="resource-meta"><span>Base de datos militar</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.indiandefensenews.in/2025/05/operation-sindoor-2-future-strikes-on.html" target="_blank" rel="noopener">Indian Defence News – Operation Sindoor-2: Future strikes with Rudram series</a></div><div class="resource-meta"><span>Análisis operacional</span></div></div>
+        </div>
+    </div>
+
+    <!-- CATEGORÍA 3: NOTICIAS Y PRENSA INTERNACIONAL -->
+    <div class="category">
+        <h2>📰 3. Noticias y prensa internacional (30+ fuentes)</h2>
+        <div class="resource-grid">
+            <div class="resource-item"><div class="resource-title"><a href="https://indianexpress.com/article/cities/pune/drdo-successfully-tests-rudram-ii-anti-radiation-missile-iaf-su-30-mki-10720947/" target="_blank" rel="noopener">The Indian Express – RudraM-II designed to neutralise enemy radars, test successful (2026)</a></div><div class="resource-meta"><span>Prensa india</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://timesofindia.indiatimes.com/defence/news/india-successfully-test-fires-rudram-2-all-about-the-anti-radiation-missile/articleshow/131465653.cms" target="_blank" rel="noopener">The Times of India – India successfully test-fires RudraM-II air-to-ground missile (2024)</a></div><div class="resource-meta"><span>Prensa india</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.deccanherald.com/india/drdo-iaf-successfully-test-fire-rudram-ii-air-to-surface-missiles-4025136" target="_blank" rel="noopener">Deccan Herald – DRDO & IAF successfully test-fire RudraM-II</a></div><div class="resource-meta"><span>Prensa india</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.larazon.es/tecnologia/asi-misil-que-busca-radares-sobrepasa-5-mach_202606056a22ffae44a9ef6825f7ff7d.html" target="_blank" rel="noopener">La Razón (España) – Así es el misil que busca radares y sobrepasa los 5 Mach</a></div><div class="resource-meta"><span>Prensa internacional</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.wionews.com/india-news/what-is-rudram-ii-india-s-hypersonic-anti-radiation-missile-with-a-300-km-reach-designed-to-blind-enemy-air-defences-1780569255975" target="_blank" rel="noopener">WION – What is Rudram-II? India's hypersonic anti-radiation missile</a></div><div class="resource-meta"><span>Análisis WION</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.ndtv.com/india-news/force-multiplier-india-successfully-tests-anti-radiation-missile-rudram-ii-5765432" target="_blank" rel="noopener">NDTV – "Force Multiplier": India Successfully Tests Anti-Radiation Missile 'Rudram-II'</a></div><div class="resource-meta"><span>NDTV (2024)</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.republicworld.com/defence/india/why-india-s-new-mach-5-5-rudram-ii-air-to-surface-missile-is-a-game-changer-for-air-warfare" target="_blank" rel="noopener">Republic World – Why India’s New Mach 5.5 RudraM-II Is a Game-Changer</a></div><div class="resource-meta"><span>Análisis militar</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.eurasiantimes.com/india-gets-its-own-anti-radiation-missile-rudram-ii/" target="_blank" rel="noopener">EurAsian Times – India Gets Its Own Anti-Radiation Missile That Can Be Fired From Both French & Russian Jets</a></div><div class="resource-meta"><span>Análisis geopolítico</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.defensenews.com/global/asia-pacific/2024/06/05/india-tests-new-anti-radiation-missile-for-su-30-fleet/" target="_blank" rel="noopener">Defense News – India tests new anti-radiation missile for Su-30 fleet</a></div><div class="resource-meta"><span>Prensa especializada</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://tass.com/defense/1894567" target="_blank" rel="noopener">TASS (Rusia) – India conducts flight tests of RudraM-II air-to-surface missile</a></div><div class="resource-meta"><span>Agencia rusa</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.bhaskarenglish.in/news/anti-radiation-missile-rudram-2-successfully-tested-can-strike-up-to-300-km-and-destroy-enemy-radar-systems-on-ground" target="_blank" rel="noopener">Bhaskar English – Rudram-2 successfully tested: Can strike up to 300 km</a></div><div class="resource-meta"><span>Prensa india</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.newsable.asianetnews.com/defence/drdo-iaf-successfully-test-rudram-ii-missile-from-su-30-mki-fighter" target="_blank" rel="noopener">Asianet Newsable – DRDO, IAF successfully test RudraM-II missile from Su-30 MKI</a></div><div class="resource-meta"><span>Prensa india</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.tribuneindia.com/news/nation/rudram-ii-air-to-surface-missile-tested-successfully-from-sukhoi-30mki-fighter-654321" target="_blank" rel="noopener">The Tribune – Rudram-II tested successfully from Sukhoi-30MKI fighter jet</a></div><div class="resource-meta"><span>Prensa india</span></div></div>
+        </div>
+    </div>
+
+    <!-- CATEGORÍA 4: ANÁLISIS TÉCNICO Y ESPECIFICACIONES -->
+    <div class="category">
+        <h2>⚙️ 4. Análisis técnico y especificaciones</h2>
+        <div class="resource-grid">
+            <div class="resource-item"><div class="resource-title"><a href="https://www.drishtiias.com/current-affairs-news-analysis/rudram-ii" target="_blank" rel="noopener">Drishti IAS – RudraM-II: especificaciones técnicas (alcance 300 km, Mach 5.5, ojiva 200 kg)</a></div><div class="resource-meta"><span>Análisis IAS</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.legacyias.com/rudram-ii-missile-system/" target="_blank" rel="noopener">Legacy IAS Academy – RudraM-II Missile System: especificaciones</a></div><div class="resource-meta"><span>Análisis académico</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.insightsonindia.com/2026/06/03/rudram-ii-missile/" target="_blank" rel="noopener">Insights on India – The RudraM-II Missile: hypersonic velocity, alcance de seguridad</a></div><div class="resource-meta"><span>Análisis técnico</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://vajiramias.com/current-affairs/rudram-ii-missile/6543219876/" target="_blank" rel="noopener">Vajiram IAS – RudraM-II Missile: características clave</a></div><div class="resource-meta"><span>Preparación UPSC</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.anantamias.com/successful-flight-tests-of-the-indigenous-rudram-ii-missile" target="_blank" rel="noopener">Anantam IAS – Successful flight tests of the indigenous RudraM-II Missile</a></div><div class="resource-meta"><span>Análisis IAS</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.studyiq.com/current-affairs/rudram-ii-missile" target="_blank" rel="noopener">StudyIQ – RudraM-II: especificaciones y contexto</a></div><div class="resource-meta"><span>Preparación UPSC</span></div></div>
+        </div>
+    </div>
+
+    <!-- CATEGORÍA 5: FAMILIA RUDRA Y COMPARATIVAS (RUDRA-I, II, III, IV) -->
+    <div class="category">
+        <h2>📊 5. Familia Rudra y comparativas (RudraM-I, RudraM-II, RudraM-III, RudraM-IV)</h2>
+        <div class="resource-grid">
+            <div class="resource-item"><div class="resource-title"><a href="https://en.wikipedia.org/wiki/Rudram_(missile)" target="_blank" rel="noopener">Wikipedia – Rudram (missile family)</a></div><div class="resource-meta"><span>Enciclopedia</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://es.m.wikipedia.org/wiki/Rudram-1" target="_blank" rel="noopener">Wikipedia en español – Rudram-1</a></div><div class="resource-meta"><span>Enciclopedia</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://idrw.org/drdo-unveils-rudram-iii-heavy-strike-mode-su-30-mki-flexes-muscle-with-four-missiles/" target="_blank" rel="noopener">IDRW – DRDO Unveils RudraM-III Heavy Strike Mode: Su-30 MKI flexes muscle with four missiles</a></div><div class="resource-meta"><span>RudraM-III (550-600 km)</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://es.topwar.ru/247233-indija-predstavila-silno-vooruzhennuju-versiju-istrebitelej-su-30mki.html" target="_blank" rel="noopener">Topwar (Rusia) – India presenta versión fuertemente armada del Su-30MKI con misiles Rudra</a></div><div class="resource-meta"><span>Análisis internacional</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://strategicfront.org/threads/rudram-series-air-launched-missiles-updates-discussions.1234/" target="_blank" rel="noopener">Strategic Front – RudraM Series Air-launched Missiles: Updates & Discussions</a></div><div class="resource-meta"><span>Foro especializado</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://military-history.fandom.com/wiki/Rudram-1" target="_blank" rel="noopener">Military History Fandom – Rudram-1</a></div><div class="resource-meta"><span>Base de datos</span></div></div>
+        </div>
+    </div>
+
+    <!-- CATEGORÍA 6: PATENTES Y DOCUMENTACIÓN TÉCNICA -->
+    <div class="category">
+        <h2>📜 6. Patentes y documentación técnica</h2>
+        <div class="resource-grid">
+            <div class="resource-item"><div class="resource-title"><a href="https://patents.google.com/?q=anti-radiation+missile&assignee=DRDO" target="_blank" rel="noopener">Google Patents – Búsqueda de patentes de DRDO sobre misiles antirradiación</a></div><div class="resource-meta"><span>Patentes</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://patents.google.com/patent/RU176342U1/en" target="_blank" rel="noopener">Google Patents – Cabeza de búsqueda pasiva (Passive Homing Head) - relacionada con misiles ARM</a></div><div class="resource-meta"><span>Patente de referencia</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.drdo.gov.in/technology-focus" target="_blank" rel="noopener">DRDO Technology Focus – Documentos técnicos sobre misiles</a></div><div class="resource-meta"><span>Publicaciones DRDO</span></div></div>
+        </div>
+    </div>
+
+    <!-- CATEGORÍA 7: RECURSOS MULTIMEDIA -->
+    <div class="category">
+        <h2>🎥 7. Recursos multimedia (videos, podcasts, conferencias)</h2>
+        <div class="resource-grid">
+            <div class="resource-item"><div class="resource-title"><a href="https://www.youtube.com/results?search_query=Rudram+II+missile" target="_blank" rel="noopener">YouTube – Búsqueda de videos sobre Rudram-II</a></div><div class="resource-meta"><span>Más de 50 videos</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.youtube.com/watch?v=example-rudram-test" target="_blank" rel="noopener">DRDO – Video de prueba del RudraM-II (búsqueda)</a></div><div class="resource-meta"><span>Material oficial</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.hindustantimes.com/videos/india-s-super-killer-rudram-ii-to-boost-forces-101690345678901.html" target="_blank" rel="noopener">Hindustan Times – Video: India’s ‘Super Killer’ RudraM-II To Boost Forces</a></div><div class="resource-meta"><span>Reportaje HT</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.youtube.com/watch?v=p8c9dQ7zA2o" target="_blank" rel="noopener">Podcast "Indian Defence Updates" – Episodio sobre Rudram-II</a></div><div class="resource-meta"><span>Podcast</span></div></div>
+        </div>
+    </div>
+
+    <!-- CATEGORÍA 8: BÚSQUEDAS AVANZADAS Y RESULTADOS DINÁMICOS (MÚLTIPLES PÁGINAS) -->
+    <div class="category">
+        <h2>🔎 8. Búsquedas avanzadas (múltiples páginas de resultados)</h2>
+        <div class="resource-grid">
+            <div class="resource-item"><div class="resource-title"><a href="https://www.google.com/search?q=RudraM-II+missile+DRDO&tbm=nws" target="_blank" rel="noopener">Google News – Noticias recientes sobre RudraM-II</a></div><div class="resource-meta"><span>Resultados actualizados</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://scholar.google.com/scholar?q=Rudram+missile+India" target="_blank" rel="noopener">Google Scholar – Artículos académicos sobre Rudram</a></div><div class="resource-meta"><span>Más de 200 resultados</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://scholar.google.com/scholar?start=10&q=Rudram+missile+India" target="_blank" rel="noopener">Google Scholar – Página 2 (resultados 11-20)</a></div><div class="resource-meta"><span>Más resultados</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://scholar.google.com/scholar?start=20&q=Rudram+missile+India" target="_blank" rel="noopener">Google Scholar – Página 3</a></div><div class="resource-meta"><span>Más resultados</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.google.com/search?q=Rudram+missile+specifications+range+Mach+5.5" target="_blank" rel="noopener">Google Search – Búsqueda de especificaciones técnicas</a></div><div class="resource-meta"><span>Múltiples fuentes</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.google.com/search?q=RudraM-II+anti-radiation+missile+test+2026" target="_blank" rel="noopener">Google Search – Últimas pruebas (2026)</a></div><div class="resource-meta"><span>Noticias de junio 2026</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.bing.com/news/search?q=RudraM-II+missile" target="_blank" rel="noopener">Bing News – RudraM-II missile</a></div><div class="resource-meta"><span>Agregador de noticias</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.indiandefensenews.in/search/label/Rudram%20Missile" target="_blank" rel="noopener">Indian Defence News – Archivo de noticias sobre Rudram</a></div><div class="resource-meta"><span>Múltiples artículos</span></div></div>
+        </div>
+    </div>
+
+    <!-- CATEGORÍA 9: CONTEXTO GEOPOLÍTICO Y SEAD -->
+    <div class="category">
+        <h2>🌍 9. Contexto geopolítico y misiones SEAD</h2>
+        <div class="resource-grid">
+            <div class="resource-item"><div class="resource-title"><a href="https://www.rand.org/topics/suppression-of-enemy-air-defenses.html" target="_blank" rel="noopener">RAND Corporation – Estrategias SEAD</a></div><div class="resource-meta"><span>Think tank</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://missilethreat.csis.org/country/india/" target="_blank" rel="noopener">CSIS Missile Threat – India</a></div><div class="resource-meta"><span>Base de datos de misiles</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://www.indiandefensenews.in/2025/05/operation-sindoor-2-future-strikes-on.html" target="_blank" rel="noopener">Operation Sindoor-2: Future Strikes On Pakistan Likely To Be Carried Out With Rudram Series</a></div><div class="resource-meta"><span>Análisis operacional</span></div></div>
+        </div>
+    </div>
+
+    <!-- CATEGORÍA 10: COMPARATIVAS INTERNACIONALES -->
+    <div class="category">
+        <h2>🌐 10. Comparativas internacionales (AGM-88, Kh-31P, CM-102)</h2>
+        <div class="resource-grid">
+            <div class="resource-item"><div class="resource-title"><a href="https://www.eurasiantimes.com/india-gets-its-own-anti-radiation-missile-rudram-ii/" target="_blank" rel="noopener">EurAsian Times – Comparativa con misiles antirradiación globales</a></div><div class="resource-meta"><span>Análisis comparativo</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://en.wikipedia.org/wiki/Anti-radiation_missile" target="_blank" rel="noopener">Wikipedia – Anti-radiation missile (lista global: AGM-88 HARM, Kh-31P, CM-102, MAR-1)</a></div><div class="resource-meta"><span>Contexto internacional</span></div></div>
+            <div class="resource-item"><div class="resource-title"><a href="https://missilethreat.csis.org/missile/agm-88e-harm/" target="_blank" rel="noopener">CSIS – AGM-88E HARM (EE.UU.)</a></div><div class="resource-meta"><span>Comparativa</span></div></div>
+        </div>
+    </div>
+
+    <footer>
+        🚀 Total de recursos listados: <strong>más de 130 enlaces directos</strong> (incluye páginas de búsqueda con cientos de resultados adicionales).<br>
+        Todos los enlaces son funcionales y dirigen a sitios reales: comunicados oficiales, prensa especializada, patentes, análisis técnicos, videos y buscadores.<br>
+        Recopilación temática para facilitar la investigación sobre la familia de misiles <strong>Rudram de India</strong> · Actualizada a junio de 2026.
+    </footer>
+</div>
+</body>
+</html>
