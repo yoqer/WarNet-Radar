@@ -42,7 +42,8 @@ Eso significa que, para una integración seria en impresión 3D, el cuello de bo
 1) con qué matriz lo mezclas,
 2) cómo evitas aglomerados,
 3)  cómo mantienes una viscosidad o fluidez imprimible,
-    4) y cómo aseguras que la mejora funcional compense la pérdida potencial de adhesión entre capas, ductilidad o consistencia dimensional. [Springer Link](https://link.springer.com/article/10.1186/s42252-021-00020-6)
+4)  
+   y cómo aseguras que la mejora funcional compense la pérdida potencial de adhesión entre capas, ductilidad o consistencia dimensional. [Springer Link](https://link.springer.com/article/10.1186/s42252-021-00020-6)
 
 
 
