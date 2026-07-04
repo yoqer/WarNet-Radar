@@ -93,7 +93,8 @@ Te dejo los mejores enlaces útiles que he encontrado en abierto:
 - [US20100271253A1 – CNT-based signature control material (Lockheed Martin)](https://patents.google.com/patent/US20100271253A1/en)
 - [WO2019167009A1 – Multilayer radar-absorbing laminate with graphene nanoplatelets (Leonardo)](https://patents.google.com/patent/WO2019167009A1/en)
 
-Si quieres, en el siguiente paso puedo convertir todo esto en uno de estos dos formatos:
 
-1. **Una matriz de viabilidad para impresión 3D civil**, comparando PLA, PA12, TPU, resina y recubrimiento post-impresión con pros, contras y nivel de madurez.  
-2. **Un informe técnico más formal**, tipo dossier, con cronología de patentes, mapa de empresa-universidad, TRL estimado y bibliografía comentada.
+____________________________________________________________________
+
+
+•Matriz de viabilidad para impresión 3D civil**, comparando PLA, PA12, TPU, resina y recubrimiento post-impresión con pros, contras y nivel de madurez.
