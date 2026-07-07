@@ -127,3 +127,4 @@ ____________________________________________________________________
 
 
 •Matriz de viabilidad para impresión 3D civil**, comparando PLA, PA12, TPU, resina y recubrimiento post-impresión con pros, contras y nivel de madurez.
+[Opciones de Variadas.](https://github.com/yoqer/WarNet-Radar/blob/main/matriz_seleccion_polimero_base_impresion3d.md)
